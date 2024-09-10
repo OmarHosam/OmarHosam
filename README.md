@@ -1,15 +1,14 @@
-![Omar Hosam](https://github-readme-stats.vercel.app/api?username=OmarHosam&theme=radical&show_icons=true)
+# Hi there! 👋
+I'm **Omar**, a full stack web developer and a software developer interested in reverse engineering and low-level programming.
 
-## Languages
-- HTML (i guess)
-- CSS
-- Javascript
-- C (printed hello world)
-- Rust
-- C++
-- Python
-- C# (only using the .net framework)
-- Scratch :D
+## Technologies I use:
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,rocket,cs,dotnet,express,flutter,html,css,js,ts,svelte,react,tauri,tailwind,threejs,prisma,java,nextjs,py,redis" />
+</p>
 
-## Porfolio
-[My Portfolio](https://omarhosam.github.io/portfolio)
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=OmarHosam&theme=gruvbox&show_icons=true&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarHosam&layout=compact&theme=gruvbox&count_private=true&hide_border=true)</a>
+</details>
