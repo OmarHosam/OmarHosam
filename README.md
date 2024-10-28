@@ -3,7 +3,7 @@ I'm **Omar**, a full stack web developer and a software developer interested in 
 
 ## Technologies I use:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,rocket,cs,dotnet,express,flutter,html,css,js,ts,svelte,react,tauri,tailwind,threejs,prisma,java,nextjs,py,redis" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,cs,dotnet,express,rocket,flutter,html,css,js,ts,svelte,react,tauri,tailwind,threejs,prisma,java,nextjs,py,redis" />
 </p>
 
 <details>
